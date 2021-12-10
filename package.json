@@ -2,7 +2,7 @@
   "name": "weba3",
   "version": "1.0.0",
   "description": "**Please view `COMP3612 Assignment 3.pdf` for instructions**",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node router.js"
