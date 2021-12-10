@@ -13,7 +13,7 @@ https://chadkoivuneva3612-a3.herokuapp.com/painting/year/2200/2400
 https://chadkoivuneva3612-a3.herokuapp.com/painting/title/self
 https://chadkoivuneva3612-a3.herokuapp.com/painting/title/dfjkghdfkgh
 https://chadkoivuneva3612-a3.herokuapp.com/painting/color/NAPA
-https://chadkoivuneva3612-a3.herokuapp.com/painting/color/coffee+bean
+https://chadkoivuneva3612-a3.herokuapp.com/painting/color/coffee%20bean
 https://chadkoivuneva3612-a3.herokuapp.com/painting/color/kcvhvxchbkcj
 https://chadkoivuneva3612-a3.herokuapp.com/artists
 https://chadkoivuneva3612-a3.herokuapp.com/artists/Netherlands
